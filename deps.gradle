@@ -1,0 +1,16 @@
+ext.deps = [
+    plugin: [
+        gradle: "com.android.tools.build:gradle:3.0.1"
+    ],
+    android: [
+      support: [
+          compat: "com.android.support:appcompat-v7:26.1.0",
+          constraitLayout: "com.android.support.constraint:constraint-layout:1.0.2"
+      ],
+      test: [
+          junit: "junit:junit:4.12",
+          runner: "com.android.support.test:runner:1.0.1",
+          expressoCore: "com.android.support.test.espresso:espresso-core:3.0.1"
+      ]
+    ]
+]
