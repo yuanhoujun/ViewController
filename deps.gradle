@@ -12,5 +12,9 @@ ext.deps = [
           runner: "com.android.support.test:runner:1.0.1",
           expressoCore: "com.android.support.test.espresso:espresso-core:3.0.1"
       ]
+    ],
+    kotlin: [
+       stdlibJdk7: "org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.2.21",
+       reflect: "org.jetbrains.kotlin:kotlin-reflect:1.2.21"
     ]
 ]

@@ -1,4 +1,4 @@
-package com.youngfeng.app;
+package viewcontroller.app;
 
 import org.junit.Test;
 

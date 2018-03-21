@@ -1,4 +1,4 @@
-package com.youngfeng.app.viewcontrollersample;
+package viewcontroller.app.viewcontrollersample;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
